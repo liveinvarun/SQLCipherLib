@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{FC137338-4263-44BC-90B5-6F958A7E0297}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/humpty-dumpty-android-master-2/humpty.sh">
+    <Files>
+      <File FileName="SQLCipherTest/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="SQLCipherTest/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="../../Downloads/humpty-dumpty-android-master-2/humpty.sh" Line="41" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/developer/Projects/SQLCipherLib/SQLCipherTest/MainActivity.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SQLCipherLib PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SQLCipherTest PreferredExecutionTarget="Android.ENU5T15B19001372" />
+</Properties>
